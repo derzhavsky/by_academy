@@ -1,4 +1,4 @@
-package by.academy;
+package by.academy.task2;
 
 
 import java.util.Arrays;

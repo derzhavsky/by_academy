@@ -1,4 +1,4 @@
-package by.academy;
+package by.academy.task2;
 /*
 Поиск числа в массиве, которое встречается нечетное количество раз
 */

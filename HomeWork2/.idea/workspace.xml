@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5305e5-3970-49aa-bfae-10d82020dd68" name="Default Changelist" comment="" />
+    <list default="true" id="8e5305e5-3970-49aa-bfae-10d82020dd68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HomeWork3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Doors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Doors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/IKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/src/by/academy/IKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork3/src/by/academy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/diagram.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/diagramCar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork3/src/by/academy/diagramSvg.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,14 +29,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZdEUXe0PU457lLk9fsiHKd2GyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.CounterMain">
     <configuration name="CalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -94,8 +125,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585160586849</updated>
+      <workItem from="1585979897971" duration="138000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1585602835956">

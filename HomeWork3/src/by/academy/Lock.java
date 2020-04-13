@@ -2,11 +2,16 @@ package by.academy;
 
 public class Lock {
 
-    Key key;
+    private int code = 777;
+//    boolean isOpen;
+//    boolean isClosed;
 
-    void isOpen() {
+
+    public int getCode() {
+        return code;
     }
-    void isClosed() {
-    }
+
+    Key key = new Key();
 
 }
+

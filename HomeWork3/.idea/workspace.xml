@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecd7a5e7-54ea-4315-b479-1561d99b5479" name="Default Changelist" comment="" />
+    <list default="true" id="ecd7a5e7-54ea-4315-b479-1561d99b5479" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Doors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Doors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/IKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/IKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/diagram.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/diagramCar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/diagramSvg.svg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZxDlVaezniBwb0xYHCCQ57vTM5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/by/academy" />
@@ -46,6 +63,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,10 +82,25 @@
       <workItem from="1585772024223" duration="119000" />
       <workItem from="1585772282919" duration="175000" />
       <workItem from="1585772498188" duration="5745000" />
+      <workItem from="1585848452572" duration="13772000" />
+      <workItem from="1586272840538" duration="187000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

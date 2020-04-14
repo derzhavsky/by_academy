@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6111344b-513f-4f0f-9075-44b10e2feaf0" name="Default Changelist" comment="" />
+    <list default="true" id="6111344b-513f-4f0f-9075-44b10e2feaf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/AnimalAgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/AnimalAgeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/AnimalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/DataContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/DataContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/PersonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/PersonRegistrationComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/PersonRegistrationComparator.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +39,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aDnKrhoJ5WYX8BnIrNKDCwqZX6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/LessonEleven" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PersonMain">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AnimalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.academy.AnimalMain" />
       <module name="HomeWork4" />
@@ -106,8 +120,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PersonMain" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PersonMain" />
         <item itemvalue="Application.AnimalMain" />
         <item itemvalue="Application.ContainerMain" />
       </list>
@@ -125,10 +139,22 @@
       <updated>1586278970894</updated>
       <workItem from="1586278974692" duration="3245000" />
       <workItem from="1586628921410" duration="21834000" />
+      <workItem from="1586888670121" duration="11992000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6111344b-513f-4f0f-9075-44b10e2feaf0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork4/by/academy/DataContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork4/by/academy/DataContainer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork4/by/academy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork4/by/academy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/AnimalAgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/AnimalAgeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/DataContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/DataContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/PersonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/PersonRegistrationComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/PersonRegistrationComparator.java" afterDir="false" />
-    </list>
+    <list default="true" id="6111344b-513f-4f0f-9075-44b10e2feaf0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/LessonEleven" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWork3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,6 +132,7 @@
       <workItem from="1586628921410" duration="21834000" />
       <workItem from="1586888670121" duration="11992000" />
       <workItem from="1586928152920" duration="4356000" />
+      <workItem from="1586977516220" duration="44000" />
     </task>
     <servers />
   </component>

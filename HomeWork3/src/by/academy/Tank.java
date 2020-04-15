@@ -4,6 +4,6 @@ public class Tank {
 
     Fuel fuel;
 
-    void full() {
+    void full(Fuel fuel) {
     }
 }

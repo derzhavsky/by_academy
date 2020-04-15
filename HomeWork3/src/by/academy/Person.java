@@ -5,7 +5,11 @@ public class Person {
     Car car;
     Key key;
 
-    void tax() {
+    void take(Pasenger pasenger) {
+    }
+
+    void own(Car car) {
+
     }
 
 }

@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd7a5e7-54ea-4315-b479-1561d99b5479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/academy/Doors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Doors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/IKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/IKey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/academy/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Key.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/academy/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/diagram.uml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/diagramCar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/diagramSvg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Pasenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Pasenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/diagramKeyAndLock.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +83,7 @@
       <workItem from="1585772498188" duration="5745000" />
       <workItem from="1585848452572" duration="13772000" />
       <workItem from="1586272840538" duration="187000" />
+      <workItem from="1586977576170" duration="2854000" />
     </task>
     <servers />
   </component>

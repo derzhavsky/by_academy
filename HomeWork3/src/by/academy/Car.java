@@ -7,8 +7,6 @@ public class Car implements ICar {
     Tank tank;
     Wheels wheels;
 
-    void own() {
-    }
 
     @Override
     public void ride() {

@@ -31,18 +31,18 @@ public class Main {
 //        ageComparator.compare(new Animal(name.nameRandomizer(), age.getAge()),
 //                new Animal(name.nameRandomizer(), age.getAge()));
 
-        DataContainer <Animal> animalDataContainer = new DataContainer<Animal>(new Animal[3]);
-        Animal ben = new Animal("ben",14);
-        Animal bill = new Animal("bill",8);
-        Animal ivan = new Animal("ivan",10);
-        Animal valera = new Animal("valera",10);
-        Animal petya = new Animal("petya",10);
-        Animal igor = new Animal("igor",10);
+        DataContainer<Animal> animalDataContainer = new DataContainer<Animal>(new Animal[3]);
+        Animal ben = new Animal("ben", 14);
+        Animal bill = new Animal("bill", 8);
+        Animal ivan = new Animal("ivan", 10);
+        Animal valera = new Animal("valera", 10);
+        Animal petya = new Animal("petya", 10);
+        Animal igor = new Animal("igor", 10);
 
 
         animalDataContainer.add(ben);
         animalDataContainer.add(valera);
-        animalDataContainer.add(bill);
+//        animalDataContainer.add(bill);
         animalDataContainer.add(ivan);
         animalDataContainer.add(petya);
         animalDataContainer.add(igor);
@@ -51,7 +51,6 @@ public class Main {
 
         animalDataContainer.delete(bill);
         System.out.println(Arrays.toString(animalDataContainer.getData()));
-
 
 
     }

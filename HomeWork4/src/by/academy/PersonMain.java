@@ -6,7 +6,7 @@ import java.util.Comparator;
 public class PersonMain {
 
     public static void main(String[] args) {
-       int numberOfPersons = 5;                                  //необходимое количество копий
+        int numberOfPersons = 100000;                                  //необходимое количество копий
 
         DataContainer<Person> personDataContainer = new DataContainer<>(new Person[numberOfPersons]);
         Names name = new Names();
@@ -18,9 +18,9 @@ public class PersonMain {
             personDataContainer.add(new Person(name.nameRandomizer(), password.getPassword(), registration.getRegistration()));
         }
         System.out.println(Arrays.toString(personDataContainer.getData()));
-        DataContainer.sort(personDataContainer,personComparator);
+        DataContainer.sort(personDataContainer, personComparator);
         System.out.println(Arrays.toString(personDataContainer.getData()));
-        personDataContainer.delete(2);
+        personDataContainer.delete(1);
         System.out.println(Arrays.toString(personDataContainer.getData()));
 
     }

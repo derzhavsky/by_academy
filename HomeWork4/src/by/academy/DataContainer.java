@@ -41,16 +41,20 @@ public class DataContainer<E> {
     }
 
     public void delete(int index) {
-        for (int i = 0; i < this.data.length; i++) {
-            if (i == index) {
-                for (int j = index; j < this.data.length - 1; j++) {
-                    E temp = this.data[j];
-                    this.data[j] = this.data[j + 1];
-                    this.data[j + 1] = temp;
+        if (index > this.data.length) {
+            System.out.println("Out off data length");
+        } else {
+            for (int i = 0; i < this.data.length; i++) {
+                if (i == index) {
+                    for (int j = index; j < this.data.length - 1; j++) {
+                        E temp = this.data[j];
+                        this.data[j] = this.data[j + 1];
+                        this.data[j + 1] = temp;
+                    }
                 }
             }
+            this.data = Arrays.copyOf(this.data, this.data.length - 1);
         }
-        this.data = Arrays.copyOf(this.data, this.data.length - 1);
     }
 
     public void delete(E item) {
@@ -63,9 +67,14 @@ public class DataContainer<E> {
                 }
             }
         }
-        this.data = Arrays.copyOf(this.data, this.data.length - 1);
+        for (int i = 0; i < this.data.length; i++) {
+            if (this.data[i].hashCode() != item.hashCode()) {
+//               System.out.println("Item not found");  //не знаю, как сделать так, чтобы печаталось 1 раз для всего массива, если нет такого элемента.
+            } else {                                    //На данный момент, если элемента нет, то просто ничего не происходит
+                this.data = Arrays.copyOf(this.data, this.data.length - 1);
+            }
+        }
     }
-
 
 
 }

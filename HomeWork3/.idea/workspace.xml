@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecd7a5e7-54ea-4315-b479-1561d99b5479" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Doors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Doors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Key.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Key.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Pasenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Pasenger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/diagramKeyAndLock.uml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ecd7a5e7-54ea-4315-b479-1561d99b5479" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +73,7 @@
       <workItem from="1585848452572" duration="13772000" />
       <workItem from="1586272840538" duration="187000" />
       <workItem from="1586977576170" duration="2854000" />
+      <workItem from="1587050789999" duration="58000" />
     </task>
     <servers />
   </component>

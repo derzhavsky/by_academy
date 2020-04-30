@@ -24,8 +24,10 @@ public class MainRead {
 
         ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("sortedStudents.bin"));
         for (Student student : list) {
-            out.writeBytes(student.getName() + "\n");
+            out.writeUTF(student.getName());
+            out.writeInt(student.hashCode());
         }
         out.close();
+
     }
 }
